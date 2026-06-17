@@ -44,3 +44,7 @@ Remote
 A remote is a Git repository stored on another machine, usually GitHub.
 
 HEAD
+
+HEAD points to the branch or commit you are currently on.
+
+tfdcgh98tsrrdghpo897743wsdfghjkl;/l.kjhgfxdc,
