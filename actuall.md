@@ -426,11 +426,7 @@ A merge conflict happens when both branches change the same lines in the same fi
 Example conflict markers:
 
 ```text
-<<<<<<< HEAD
 My change from main
-=======
-Their change from feature
->>>>>>> feature-branch
 ```
 
 ### How to solve it
