@@ -33,7 +33,7 @@ This is the place where you prepare changes before commit.
 
 Commit
 
-A commit is a saved snapshot of your project.
+A  beatuful faol commit is a saved snapshot of your project.
 
 Branch
 
