@@ -734,7 +734,7 @@ git switch -c fix-from-old-commit
 
 ---
 
-## 20. Useful inspection commands
+## 20. Useful inspection commands for the issue
 
 Show changed files:
 
