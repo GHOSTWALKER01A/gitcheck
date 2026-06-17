@@ -872,8 +872,7 @@ Always try to keep your work organized like this:
 * one branch = one task
 * one PR = one logical change
 * small commits are better than huge commits
-* pull latest changes often
-* resolve conflicts carefully
+
 
 ---
 
